@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf736d6d-f0c0-4aaf-a094-1a559fe1ccb0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.go" afterDir="false" />
-    </list>
+    <list default="true" id="cf736d6d-f0c0-4aaf-a094-1a559fe1ccb0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +149,7 @@
       <workItem from="1601625762358" duration="620000" />
       <workItem from="1601627160886" duration="11639000" />
       <workItem from="1601880999335" duration="6734000" />
-      <workItem from="1601974108382" duration="8311000" />
+      <workItem from="1601974108382" duration="8762000" />
     </task>
     <servers />
   </component>
